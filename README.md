@@ -24,3 +24,12 @@
 ### 📧 Contact Me:
 [<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:iimeelkaaga@gmail.com)
 [<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/ikraamahmet10-debug)
+---
+
+### 📊 GitHub Stats:
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ikraamahmet10-debug&show_icons=true&theme=radical" alt="Ikran's stats" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikraamahmet10-debug&layout=compact&theme=radical" alt="Top Langs" />
+</p>
+
