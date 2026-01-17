@@ -2,8 +2,8 @@
 
 <table border="0">
   <tr>
-    <td width="30%" align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJicnFic2R4bmR4bmR4bmR4bmR4bmR4bmR4bmR4bmR4bmR4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="200">
+    <td width="30%" align="center" valign="top">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Technologist.png" width="150" />
       <br><br>
       <b>Ikran Ahmed Diriye</b><br>
       Graphic Designer & Web Developer 💻
@@ -22,9 +22,10 @@
 
 <hr>
 
-### 🔗 What I'm working on:
-* **Graphic Design:** Creating unique logos and brand identities.
-* **Web Development:** Building modern web templates.
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ikraamahmet10-debug&show_icons=true&theme=radical" />
+</p>
 
 ### 📧 Contact Me:
 [<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:iimeelkaaga@gmail.com)
