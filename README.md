@@ -3,7 +3,7 @@
 <table border="0">
   <tr>
     <td width="30%" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Technologist.png" width="150" />
+      <img src="https://raw.githubusercontent.com/ikraamahmet10-debug/ikraamahmet10-debug/main/1000020384.jpg" width="150" style="border-radius: 50%;" />
       <br><br>
       <b>Ikran Ahmed Diriye</b><br>
       Graphic Designer & Web Developer 💻
@@ -21,11 +21,6 @@
 </table>
 
 <hr>
-
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ikraamahmet10-debug&show_icons=true&theme=radical" />
-</p>
 
 ### 📧 Contact Me:
 [<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:iimeelkaaga@gmail.com)
