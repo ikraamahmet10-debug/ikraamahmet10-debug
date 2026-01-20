@@ -3,7 +3,7 @@
 <table border="0">
   <tr>
     <td width="30%" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/ikraamahmet10-debug/ikraamahmet10-debug/main/1000020384.jpg" width="150" style="border-radius: 50%;" />
+      <img src="https://raw.githubusercontent.com/ikramahmet10-debug/ikraamahmet10-debug/main/1000020384.jpg" width="150" style="border-radius: 50%;" />
       <br><br>
       <b>Ikram Ahmed Diriye</b><br>
       Graphic Designer & Web Developer 💻
