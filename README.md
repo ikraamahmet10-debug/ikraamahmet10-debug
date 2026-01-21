@@ -1,30 +1,35 @@
-# 👋 Hello, I'm Ikraam Ahmet!
+# 👋 Hi, I'm Ikraam Ahmet!
 
 ### 🚀 About Me
-I am a passionate **Software Developer** focused on building clean, functional, and user-friendly applications. I love learning new technologies and solving complex problems.
+I am a dedicated **Software Developer** with a passion for building clean, efficient, and user-friendly applications. I enjoy tackling complex problems and constantly expanding my technical skill set.
 
-- 🔭 I’m currently working on: **[Magaca Mashruucaaga]**
+- 🔭 I’m currently working on: **Personal Portfolio**
 - 🌱 I’m currently learning: **React, Node.js, and Cloud Computing**
-- ⚡ Fun fact: **I love debugging as much as coding!**
+- ⚡ Fun fact: **I find debugging as satisfying as writing new code!**
 
 ---
 
-### 🛠 Tech Stack
-| Category | Tools |
+### 🛠 My Tech Stack
+
+| Category | Skills & Tools |
 | :--- | :--- |
-| **Languages**  JavaScript, Java, C++ |
-| **Frontend** | HTML5, CSS3, Bootstrap |
-| **Backend** | Node.js, Express |
-| **Tools** | Git, GitHub, VS Code |
+| **Languages** | JavaScript (ES6+), Java, C++ |
+| **Frontend** | HTML5, CSS3, Bootstrap, Tailwind |
+| **Backend** | Node.js, Express.js |
+| **Tools** | Git, GitHub, VS Code, Postman |
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 ![Ikraam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ikraamahmet10-debug&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikraamahmet10-debug&layout=compact&theme=radical)
 
 ---
 
 ### 📫 Connect with me:
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/YOUR_USERNAME)
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER_USERNAME)
+
+---
+*“First, solve the problem. Then, write the code.”*
