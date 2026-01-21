@@ -30,6 +30,4 @@ I am a dedicated **Software Developer** with a passion for building clean, effic
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER_HERE)
 
 
---
-*“First, solve the problem. Then, write the code.”*
 
