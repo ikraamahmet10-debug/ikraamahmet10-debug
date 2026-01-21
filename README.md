@@ -12,7 +12,7 @@ I am a passionate **Software Developer** focused on building clean, functional, 
 ### 🛠 Tech Stack
 | Category | Tools |
 | :--- | :--- |
-| **Languages** | Python, JavaScript, Java, C++ |
+| **Languages**  JavaScript, Java, C++ |
 | **Frontend** | HTML5, CSS3, Bootstrap |
 | **Backend** | Node.js, Express |
 | **Tools** | Git, GitHub, VS Code |
