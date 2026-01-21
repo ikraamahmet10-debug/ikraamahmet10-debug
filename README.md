@@ -42,5 +42,9 @@ I am a dedicated **Software Developer** with a passion for building clean, effic
 <a href="https://twitter.com/YOUR_TWITTER_HERE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
 </p>
 
----
-*“First, solve the problem. Then, write the code.”*
+
+<p align="left">
+  <a href="mailto:magacaaga@email.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
