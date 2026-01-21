@@ -1,6 +1,11 @@
-# Welcome to my Profile! 👋
+# Hi there, I'm Ikraam! 👋
 
-Hi I'm Ikraam, a passionate Web Developer. I love creating visually stunning designs and building responsive, user-friendly websites.
+I have a passion for building clean, efficient, and user-friendly applications. I enjoy tackling complex problems and constantly expanding my technical skill set.
+
+- 🔭 I’m currently working on: **Personal Portfolio**
+- 🌱 I’m currently learning: **Java and Web Development**
+- 💬 Ask me about: **HTML, CSS, and Git**
+- ⚡ Fun fact: **I find debugging as satisfying as writing new code!**
 
 ---
 
@@ -14,9 +19,9 @@ Hi I'm Ikraam, a passionate Web Developer. I love creating visually stunning des
 ---
 
 ## 📊 GitHub Stats
-![Ikraam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ikraamahmet10&show_icons=true&theme=radical)
+![Ikraam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ikraamahmet10-debug&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikraamahmet10&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikraamahmet10-debug&layout=compact&theme=radical)
 
 ---
 
@@ -24,7 +29,7 @@ Hi I'm Ikraam, a passionate Web Developer. I love creating visually stunning des
 <a href="mailto:emailkaaga@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="https://linkedin.com/in/usernamekaaga">
+<a href="https://linkedin.com/in/ikraamahmet10-debug">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
