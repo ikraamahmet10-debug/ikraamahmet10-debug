@@ -23,12 +23,6 @@ I am a dedicated **Software Developer** with a passion for building clean, effic
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
----
-
-### 📊 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ikraamahmet10-debug&show_icons=true&theme=radical&hide_border=false" alt="Ikraam's Stats" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikraamahmet10-debug&layout=compact&theme=radical" alt="Top Langs" />
