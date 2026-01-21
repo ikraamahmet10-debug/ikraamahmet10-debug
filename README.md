@@ -29,9 +29,7 @@ I am a dedicated **Software Developer** with a passion for building clean, effic
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_HERE)
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER_HERE)
 
-----
-### 👁️ Profile Views
-![Views](https://komarev.com/ghpvc/?username=ikraamahmet10-debug&color=blue)
+
 --
 *“First, solve the problem. Then, write the code.”*
 
